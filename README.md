@@ -317,6 +317,7 @@ In a production environment, this limitation can be addressed using Change Data 
 ## Assignment Output
 
 ![Dashboard](screenshots/dashboard.png)
+![RabbitMQ Dashboard](screenshots/rbmq.png)
 
 ---
 
